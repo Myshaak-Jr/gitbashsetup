@@ -1,0 +1,13 @@
+{
+	"colorScheme": "Dark+",
+	"commandline": "\"C:\\Program Files\\Git\\usr\\bin\\bash.exe\" -i -l",
+	"guid": "{6feb6eaf-5fdc-46c3-8122-9b92168b8fef}",
+	"hidden": false,
+	"icon": "C:\\Program Files\\Git\\mingw64\\share\\git\\git-for-windows.ico",
+	"name": "Bash",
+	"opacity": 45,
+	"startingDirectory": "%USERPROFILE%",
+	"tabTitle": "Bash",
+	"useAcrylic": true
+}
+
