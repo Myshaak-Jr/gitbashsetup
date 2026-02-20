@@ -1,0 +1,15 @@
+set bell-style none
+
+set completion-ignore-case on
+set show-all-if-ambiguous on
+
+set colored-completion-prefix on
+set colored-stats on
+
+set enable-bracketed-paste on
+
+"\e[A": history-search-backward
+"\e[B": history-search-forward
+
+"\C-h": backward-kill-word
+"\e[127;5u": backward-kill-word
